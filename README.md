@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@suvanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suvanga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvanga dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvanga dhakal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sdhakal8” target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvanga dhakal" height="30" width="40" /></a>
 <a href="https://fb.com/suvanga dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suvanga dhakal" height="30" width="40" /></a>
 <a href="https://instagram.com/suvanga_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvanga_d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suvanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvanga" height="30" width="40" /></a>
