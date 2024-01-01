@@ -1,7 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Suvanga)
 <h1 align="center">Hi 👋, I'm Suvang Dhakal</h1>
 <h3 align="center">EECS Major, University Of Toledo, Java and C is my thing</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a3561zerfbhvz7da0rkvvmbc3mjb10ngw8azbkwf&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvanga&label=Profile%20views&color=0e75b6&style=flat" alt="suvanga" /> </p>
@@ -29,9 +30,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@suvanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suvanga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sdhakal8” target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvanga dhakal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sdhakal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhakal8" height="30" width="40" /></a>
 <a href="https://fb.com/suvanga dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suvanga dhakal" height="30" width="40" /></a>
 <a href="https://instagram.com/suvanga_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvanga_d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/suvangadhz2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suvangadhz2126" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suvanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvanga" height="30" width="40" /></a>
 <a href="https://discord.gg/Suvanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Suvanga" height="30" width="40" /></a>
 </p>
