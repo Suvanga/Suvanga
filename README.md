@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Suvang Dhakal</h1>
 <h3 align="center">EECS Major, University Of Toledo, Java and C is my thing</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif”>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvanga&label=Profile%20views&color=0e75b6&style=flat" alt="suvanga" /> </p>
 
