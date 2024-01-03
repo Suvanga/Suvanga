@@ -7,7 +7,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@suvanga" target="blank"><img src="https://img.shields.io/twitter/follow/@suvanga?logo=twitter&style=for-the-badge" alt="@suvanga" /></a> </p>
 
 - 🔭 I’m currently working on **E Commerce Car rental website**
 
