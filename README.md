@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Suvanga)
-<h1 align="center">Hi 👋, I'm Suvang Dhakal</h1>
+<h1 align="center">Hi 👋, I'm Suvanga Dhakal</h1>
 <h3 align="center">EECS Major, University Of Toledo, Java and C is my thing</h3>
 
 
