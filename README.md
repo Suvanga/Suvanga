@@ -8,15 +8,15 @@
 
 
 
-- 🔭 I’m currently working on **E Commerce Car rental website**
+- 🔭 I’m currently working on **AI CHATBOT WITH GROUP CHAT AND AN IOT BASED SYSTEM FOR A BELL**
 
-- 🌱 I’m currently learning **React & Django**
+- 🌱 I’m currently learning **DL Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://suvanga.github.io/](https://suvanga.github.io/)
 
 - 📝 I regularly write articles on [https://suvanga.github.io/tech.html](https://suvanga.github.io/tech.html)
 
-- 💬 Ask me about **jscript, java, QBASIC**
+- 💬 Ask me about **Anything :) **
 
 - 📫 How to reach me **suvangadhakal0@gmail.com**
 
