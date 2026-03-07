@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DL Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://suvanga.github.io/](https://suvanga.github.io/)
+- 👨‍💻 All of my projects are available at [https://suvanga.github.io/profile](https://suvanga.github.io/profile)
 
 - 📝 I regularly write articles on [https://suvanga.github.io/tech.html](https://suvanga.github.io/tech.html)
 
