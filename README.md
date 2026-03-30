@@ -14,15 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://suvanga.github.io/profile](https://suvanga.github.io/profile)
 
-- 📝 I regularly write articles on [https://suvanga.github.io/tech.html](https://suvanga.github.io/tech.html)
-
 - 💬 Ask me about **Anything :) **
 
 - 📫 How to reach me **suvangadhakal0@gmail.com**
 
-- 📄 Know about my experiences [https://suvanga.github.io/images/Suvanga%20Dhakal%20Resume.pdf](https://suvanga.github.io/images/Suvanga%20Dhakal%20Resume.pdf)
+- 📄 Know about my experiences suvanga.github.io
 
-- ⚡ Fun fact **Love playing drums, guitar, and FC24**
+- ⚡ Fun fact **Love playing drums, guitar, and FC26**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
